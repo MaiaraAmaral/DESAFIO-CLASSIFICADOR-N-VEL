@@ -1,5 +1,5 @@
 let nomeHeroi = "Cavaleiro da Lua";
-let xpHeroi = 8000; 
+let xpHeroi = 5000; 
 let nivelxp = ""; 
 if (xpHeroi <= 1000) { 
     nivelxp = "Ferro" 
